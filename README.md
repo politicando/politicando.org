@@ -16,6 +16,8 @@ http://politize.com.br/
 
 http://www.votenaweb.com.br/
 
+http://loomio.org
+
 # Technical
 
 http://scraping.pro/kimono-labs-review/
